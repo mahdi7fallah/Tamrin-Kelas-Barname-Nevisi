@@ -1,8 +1,6 @@
-# دریافت نام و نمره تعدادی دانشجو
+# دریافت نام و نمره تعدادی دانشجو 
 # نشان دادن دانشجویی که بالاترین نمره را دارد
-
-#pylint:disable=C0103
-
+ 
 tedad = int(input("Tedad DaneshjoyHa: "))
 
 daneshjo_nomre = []          # Tedad Kole DaneshjoHa Ba Nomre
